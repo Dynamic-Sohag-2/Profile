@@ -1,25 +1,168 @@
 
-<html>
 
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+ <a class="navbar-brand" href="#">Sohag</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+<a class="navbar-brand" href="#">Home</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+<a class="navbar-brand" href="#">Facebook</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+<a class="navbar-brand" href="#">Youtube</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+<a class="navbar-brand" href="#">google</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Programs</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Education</a>
+      </li>
+    </ul>
+  </div>
+</head>
 <body>
+   <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="student.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="teacher.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="apron.jpg" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+ <div class="container">
+  <div class="jumbotron">
+  <h1 class="display-4">Welcome to my Website.</h1>
+  <p class="lead">Parents are the source of our life on earth.They are my best friends and well wishes. My parents are educated and quite well off. I am the only son of my parents. I have a little brother. </p>
+  <hr class="my-4">
+  <p> My father is a farmer and mother is a housewife. They care for me very much. Mother takes care of my studies. Both of my parents are quite busy. They are very conscious of my education. My parents always wish that I may be honest, sincere, active, tolerant and polite. They advise us in all respects very much. They pray for us and help us to make our life successful and hopeful.</p>
+  <a class="btn btn-primary btn-lg" href="https://www.facebook.com/SRshohagbabu/?ref=bookmarks" role="button">Learn more</a>
+</div>
+</div>
+<div id="programs" class="card-deck">
+  <div class="card">
+    <img src="sohag pic.jpg" class="card-img-top" alt="sohag pic.jpg">
+    <div class="card-body">
+      <h5 class="card-title">Programming</h5>
+      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="perform.jpg" class="card-img-top" alt="perform.jpg">
+    <div id="education"class="card-body">
+      <h5 class="card-title">Education</h5>
+      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="entertain.jpg" class="card-img-top" alt="entertain.jpg">
+    <div class="card-body">
+      <h5 class="card-title">Performer</h5>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+<div class="container">
+  <div class="card">
+  <div class="card-header">Education
+  </div>
+  <div class="card-body">
+<h5 class="card-title">Head of the Science Department<br>Dynamic School and College<br>North Badda,Dhaka-1212</h5>
+<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+    <h5 class="card-title">B.Sc Hon's<br>Department Of Zoloogy<br>Under Dhaka University</h5>
+<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+<h5 class="card-title">HSC<br>Bhurungamari Govt  College<br>Bhurungamari,Kurigram</h5>
+<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+<h5 class="card-title">SSC<br>Sonahat B.L High School<br>Bhurungamari,Kurigram</h5>
+<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+<h5 class="card-title">PEC<br>Porsuramerkuty Govt Primary School<br>Bhurungamari,Kurigram</h5>
+<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+</div>
+<div class="card">
+  <div class="card-header">Leadership</div>
+  <div class="card-body">
+<h5 class="card-title">Dynamic Club</h5>
+<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+   <div class="card">
+  <div class="card-header">President</div>
+  <div class="card-body"> <h5 class="card-title">Learning Home BD<br>Youtube Channel: Learning Home BD<br>Facebook page: Learning Home BD<br>Facebook Group: Learning Home BD</h5>
+<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+<div class="card">
+  <div class="card-header">Family Status
+  </div>
+  <div class="card-body">
+<h5 class="card-title">Name: Md Sohag Babu<br>Father's Name: Md Amir Hossain<br>Mother's Name: Mst Shapla Khatun<br>Brother's Name:Md Sohel Rana</h5>
 
-<table border="1">
-<thead>
-<td>Roll</td>
-<td>Subject</td>
-</thead>
-<tr>
-<td> 201</td>
-<td>Bangla</td>
-</tr>
-<tr>
-<td>202</td>
-<td>English</td>
-</tr>
-<tr>
-<td>203</td>
-<td>ICT<td>
-</tr>
-</body>
+<div class="card">
+  <div class="card-header">Kurigram District Information
+  </div>
+ 
+<div class="card">
+  <div class="card-header">Kurigram Heritage Sites
+  </div>
+  <div class="card-body">
+<h5 class="card-title">Naodanaga Zamidar Bari,Kurigram <a href="http://heritageinbangladesh.blogspot.com/2016/05/naodanga-zamindar-bari-kurigram.html">Click here</a></h5>
 
+<div class="card">
+  <div class="card-body">
+<h5 class="card-title">Brajen Munshi Bari,Kurigram <a href=http://heritageinbangladesh.blogspot.com/2017/11/brajen-munshi-bari-kurigram-bangladesh.html">Click here</a></h5>
+<div class="card">
+  <div class="card-body">
+<h5 class="card-title">Chilmari River Port of Bangladesh,in Kurigram. <a href="http://www.dhakatribune.com/bangladesh/2013/10/19/historic-chilmari-port-disappears/">Click here</a></h5>
+
+
+<div class="card">
+  <div class="card-header">Upazila list in Kurigram
+  </div>
+  <div class="card-body">
+<h5 class="card-title">
+<ol>
+<ul>1.Bhurungamari</ul>
+<ul>2.Rajibpur</ul>
+<ul>3.Chilmari</ul>
+<ul>4.Fulbari</ul>
+<ul>5.Kurigram-S</ul>
+<ul>6.Nageswari</ul>
+<ul>7.Rowmari</ul>
+<ul>8.Rajarhat</ul>
+<ul>9.Ulipur</ul"></ol></h5>
+Sohag babu
+  </body>
 </html>
