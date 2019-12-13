@@ -12,7 +12,7 @@
 <button type="button" class="btn btn-primary">
   Profile <span class="badge badge-light">Sohag</span>
   <span class="sr-only"></span>
-  <img src="sohag pic.jpg"width="10%"height="10%">
+  <img src="sohag pic.jpg"width="10%"height="10%"</img>
   <h1 class="0"><marquee>Welcome To My Gallary</marquee></h1>
  
 </button>
