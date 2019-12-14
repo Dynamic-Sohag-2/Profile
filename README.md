@@ -12,7 +12,7 @@
 <button type="button" class="btn btn-primary">
   Profile <span class="badge badge-light">Sohag</span>
   <span class="sr-only"></span>
-  <img src="sohag pic.jpg"width="15%"height="15%"></img>
+  <img src="sohag pic.jpg"width="20%"height="20%"></img>
   <h1 class="0"><marquee>Welcome To My Gallary</marquee></h1>
  
 </button>
@@ -100,7 +100,7 @@
     <img src="sohag pic.jpg" class="card-img-top" alt="sohag pic.jpg">
     <div class="card-body">
       <h5 class="card-title">Programmer</h5>
-      <p class="card-text">We should change our life.</p>
+      <p class="card-text">We should change our life style.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
@@ -154,7 +154,7 @@
   <div class="card-header">Leadership</div>
   <div class="card-body">
 <h5 class="card-title">Dynamic Club</h5>
-<p class="card-text">"Dynamic"</p>
+<p class="card-text">"Dynamic Team"</p>
    <div class="card">
   <div class="card-header">President</div>
   <div class="card-body"> <h5 class="card-title">Learning Home BD<br>Youtube Channel: Learning Home BD<br>Facebook page: Learning Home BD<br>Facebook Group: Learning Home BD</h5>
@@ -179,7 +179,7 @@
 <div class="card">
   <div class="card-body">
 <h5 class="card-title">Chilmari River Port of Bangladesh,in Kurigram. <a href="http://www.dhakatribune.com/bangladesh/2013/10/19/historic-chilmari-port-disappears/">Click here</a></h5>
-<h6 class="card-title">?????????? ????.<a href="http://www.kurigram.gov.bd/">Click Here</a></h6>
+<h6 class="card-title">Kurigram District.<a href="http://www.kurigram.gov.bd/">Click Here</a></h6>
 <div class="card">
   <div class="card-header">Upazila list in Kurigram</div>
   <div class="card-body">
