@@ -12,9 +12,6 @@
 <button type="button" class="btn btn-primary">
   Profile <span class="badge badge-light">Sohag Biodata</span>
   <span class="sr-only"></span>
-	<button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false">
-  Single toggle
-</button>
 	<img src="sohag pic.jpg"width="5%"height="5%"></img>
   <h1 class="0"><marquee>Welcome To My Gallary</marquee></h1>
  
