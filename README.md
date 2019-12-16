@@ -100,7 +100,10 @@
     <img src="sohag pic.jpg" class="card-img-top" alt="sohag pic.jpg">
     <div class="card-body">
       <h5 class="card-title">Programmer</h5>
-      <p class="card-text">We should change our life style.</p>
+      <p class="card-text">We should change our life style.Sohag   Sohag Sohag   Sohag   Sohag   Sohag    Sohag   Sohag
+Sohag   Sohag    Sohag   Sohag     Sohag   Sohag  Sohag   Sohag
+Sohag   Sohag    Sohag   Sohag      Sohag   Sohag   Sohag   Sohag
+</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
@@ -108,7 +111,10 @@
     <img src="perform.jpg" class="card-img-top" alt="perform.jpg">
     <div id="education"class="card-body">
       <h5 class="card-title">Education</h5>
-      <p class="card-text">  
+      <p class="card-text"> Sohag   Sohag Sohag   Sohag   Sohag   Sohag    Sohag   Sohag
+Sohag   Sohag    Sohag   Sohag     Sohag   Sohag  Sohag   Sohag
+Sohag   Sohag    Sohag   Sohag      Sohag   Sohag   Sohag   Sohag
+ 
 </p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
