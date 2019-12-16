@@ -10,7 +10,7 @@
 	<meta name="description"content="">
 	<meta name="author"content="">
 <button type="button" class="btn btn-primary">
-  Profile <span class="badge badge-light">Sohag</span>
+  Profile <span class="badge badge-light">Sohag Biodata</span>
   <span class="sr-only"></span>
   <img src="sohag pic.jpg"width="20%"height="20%"></img>
   <h1 class="0"><marquee>Welcome To My Gallary</marquee></h1>
@@ -116,7 +116,10 @@
     <img src="ssd.jpg" class="card-img-top" alt="enjoy.jpg">
     <div id="enjoy"class="card-body">
       <h5 class="card-title">Enjoy</h5>
-      <p class="card-text">"?????? ??? ?? ?? ?? ??????, <br>?????? ?? ??? ??? ??? ???<br>??? ????? ??????,??? ???,?????? ???? ??? ????????"</p>
+      <p class="card-text">"Sohag   Sohag Sohag   Sohag   Sohag   Sohag    Sohag   Sohag
+Sohag   Sohag    Sohag   Sohag     Sohag   Sohag  Sohag   Sohag
+Sohag   Sohag    Sohag   Sohag      Sohag   Sohag   Sohag   Sohag
+"</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
@@ -124,7 +127,10 @@
     <img src="entertain.jpg" class="card-img-top" alt="entertain.jpg">
     <div class="card-body">
       <h5 class="card-title">Performer</h5>
-      <p class="card-text">"?????? ??? ?? ?? ?? ??????, <br>?????? ?? ??? ??? ??? ???<br>??? ????? ??????,??? ???,?????? ???? ??? ????????"</p>
+      <p class="card-text">"Sohag   Sohag Sohag   Sohag   Sohag   Sohag    Sohag   Sohag
+Sohag   Sohag    Sohag   Sohag     Sohag   Sohag  Sohag   Sohag
+Sohag   Sohag    Sohag   Sohag      Sohag   Sohag   Sohag   Sohag
+"</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
