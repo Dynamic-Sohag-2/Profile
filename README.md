@@ -12,17 +12,7 @@
 <button type="button" class="btn btn-primary">
   Profile <span class="badge badge-light">Sohag Biodata</span>
   <span class="sr-only"></span>
-	<div class="Facebook">
-  <a class="btn btn-secondary dropdown-toggle" href="https://www.facebook.com/er.shohag?ref=bookmarks" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Dropdown link
-  </a>
-
-  <div class="dropdown-menu" aria-labelledby="Sohag">
-    <a class="dropdown-item" href="https://www.facebook.com/er.shohag?ref=bookmarks">Facebook</a>
-    <a class="dropdown-item" href="https://www.youtube.com/channel/UCVk-Xgli4DSC_P6UPB0AKQw">Youtube</a>
-    <a class="dropdown-item" href="https://www.youtube.com/channel/UCCLeLF_jOp4gFXUjTe6yaZA/videos">Dynamic Team</a>
-  </div>
-</div>
+<img src="sohag pic.jpg"width="5%"height="5%"></img>
   <h1 class="0"><marquee>Welcome To My Gallary</marquee></h1>
  
 </button>
