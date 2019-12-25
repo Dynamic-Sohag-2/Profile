@@ -45,8 +45,7 @@
         <a class="nav-link" href="https://www.facebook.com/SRshohagbabu/?ref=bookmarks">Education</a>
       </li>
     </ul>
-  </div>
-</head>
+  
 <body>
 <!-- Example single danger button -->
 <div class="btn-group">
