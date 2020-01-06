@@ -132,7 +132,7 @@ Sohag   Sohag    Sohag   Sohag      Sohag   Sohag   Sohag   Sohag
     <img src="entertain.jpg" class="card-img-top" alt="entertain.jpg">
     <div class="card-body">
       <h5 class="card-title">Performer</h5>
-      <p class="card-text">"Sohag   Sohag Sohag   Sohag   Sohag   Sohag    Sohag   Sohag
+      <p class="card-text">"Sohag  Sohag Sohag   Sohag   Sohag   Sohag    Sohag   Sohag
 Sohag   Sohag    Sohag   Sohag     Sohag   Sohag  Sohag   Sohag
 Sohag   Sohag    Sohag   Sohag      Sohag   Sohag   Sohag   Sohag
 "</p>
